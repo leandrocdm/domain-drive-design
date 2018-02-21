@@ -1,0 +1,28 @@
+a) Os tipos do Java são divididos em tipos primitivos e tipos por referência. 
+Os tipos primitivos representam tipos de dados simples como uma letra, um valor
+lógico, um número inteiro ou real. 
+
+b) Os tipos primitivos são boolean, byte, char, short, int,long, float e double.
+
+c) char c = 'c';
+int numero = 7;
+float numeroReal = 4.8f;
+long numeroInteiroGrande = 78564L;
+double numeroRealGrande = 7851.0d; 
+
+d) A principal diferença está na questão a instanciação. Tipos por referência
+precisam ser instanciados enquanto os primitivos não.
+
+e) Ao contrário da variável primitiva - que contém um valor de tipo primitivo - a
+variável por referência contém um valor de um tipo por referência, ou melhor, um objeto.
+No exemplo exibido a seguir a variável de referência x contém um objeto do tipo String:
+String x = new String();
+
+
+f) São palavras que não podem ser utilizadas como um identificador(nome de variáveis,
+atributos, classes, etc.) por serem reservadas para a linguagem de programação.
+Exemplo: class, void e return
+
+g) a, c
+
+h) loop, shorts, car, rollback, bool

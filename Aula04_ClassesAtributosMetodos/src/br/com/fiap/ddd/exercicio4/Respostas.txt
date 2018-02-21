@@ -1,0 +1,21 @@
+a. O que é um objeto ?
+É uma instância de uma classe.
+
+b. O que é uma classe ?
+A classe é uma descrição nomeada para um grupo de entidades (chamadas de objetos
+ou instâncias de classe) que têm as mesmas características. Estas características
+são os atributos(propriedades, campos de dados) e as operações(comportamentos, 
+métodos) que podem ser executadas nestes objetos.
+
+c. Qual a relação entre classes e objetos ?
+A diferença fundamental entre classes e objetos está no fato de que um objeto 
+constitui uma entidade concreta com tempo e espaço de existência, enquanto a classe
+é somente uma descrição nomeada - especificação - de um grupo de objetos.
+
+d. O que é um atributo ?
+Um atributo é o nome que se dá à propriedade de uma classe. O atributo descreve
+o tipo do valor que a propriedade possui.
+
+e. O que é uma operação ?
+Um serviço que pode ser solicitado a partir de um objeto para efeito de comportamento.
+Uma operação tem uma assinatura, que pode restringir os parâmetros e retorno possíveis.
